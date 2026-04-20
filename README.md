@@ -24,14 +24,14 @@
 
 <!-- LANGUAGES -->
 <p align="left">
-<strong>Languages:</strong><br/>
+<strong>Languages:</strong>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </p>
 
 <!-- AI / DATA -->
 <p align="left">
-<strong>AI & Data Science:</strong><br/>
+<strong>AI & Data Science:</strong>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
@@ -42,7 +42,7 @@
 
 <!-- BACKEND / FRONTEND -->
 <p align="left">
-<strong>Web Development:</strong><br/>
+<strong>Web Development:</strong>
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
@@ -51,14 +51,14 @@
 
 <!-- DATA ENGINEERING -->
 <p align="left">
-<strong>Data Engineering:</strong><br/>
+<strong>Data Engineering:</strong>
 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" height="40"/>
 </p>
 
 <!-- DATABASES -->
 <p align="left">
-<strong>Databases:</strong><br/>
+<strong>Databases:</strong>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
@@ -69,7 +69,7 @@
 
 <!-- DEVOPS -->
 <p align="left">
-<strong>DevOps & Tools:</strong><br/>
+<strong>DevOps & Tools:</strong>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
