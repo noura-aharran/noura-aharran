@@ -19,11 +19,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/noura-aharran-910b3827b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noura-aharran-910b3827b" height="30" width="40" /></a>
 </p>
-<h3 align="left">🚀 Skills & Technologies</h3>
+<h3 align="left"> Skills & Technologies</h3>
 
 <p align="left"><strong>Languages:</strong><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
 </p>
 
 <p align="left"><strong>AI & Data Science:</strong><br/>
